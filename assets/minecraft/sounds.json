@@ -1,0 +1,38 @@
+{
+  "item.crossbow.brimstone1": {
+	"sounds": [
+	  "item/crossbow/brimstone_new1"
+	],
+	"subtitle": "subtitles.item.crossbow.shoot"
+  },
+  "item.crossbow.brimstone2": {
+	"sounds": [
+	  "item/crossbow/brimstone_new2"
+	],
+	"subtitle": "subtitles.item.crossbow.shoot"
+  },
+  "item.crossbow.brimstone3": {
+	"sounds": [
+	  "item/crossbow/brimstone_new3"
+	],
+	"subtitle": "subtitles.item.crossbow.shoot"
+  },
+  "item.crossbow.brimstone4": {
+	"sounds": [
+	  "item/crossbow/brimstone_new4"
+	],
+	"subtitle": "subtitles.item.crossbow.shoot"
+  },
+  "item.crossbow.brimstone5": {
+	"sounds": [
+	  "item/crossbow/brimstone_new5"
+	],
+	"subtitle": "subtitles.item.crossbow.shoot"
+  },
+  "item.crossbow.brimstone6": {
+	"sounds": [
+	  "item/crossbow/brimstone_new6"
+	],
+	"subtitle": "subtitles.item.crossbow.shoot"
+  }
+}
