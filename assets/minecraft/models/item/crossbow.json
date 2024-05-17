@@ -399,6 +399,17 @@
       {"predicate": {"custom_model_data": 321,"charged": 1},
         "model": "bowsenal/crossbows/flamecaster_arrow"},
 
+      {"predicate": {"custom_model_data": 331},
+        "model": "bowsenal/crossbows/accumulator"},
+      {"predicate": {"custom_model_data": 331,"pulling": 1},
+        "model": "bowsenal/crossbows/accumulator_pulling_0"},
+      {"predicate": {"custom_model_data": 331,"pulling": 1,"pull": 0.58},
+        "model": "bowsenal/crossbows/accumulator_pulling_1"},
+      {"predicate": {"custom_model_data": 331,"pulling": 1,"pull": 0.9},
+        "model": "bowsenal/crossbows/accumulator_pulling_2"},
+      {"predicate": {"custom_model_data": 331,"charged": 1},
+        "model": "bowsenal/crossbows/accumulator_arrow"},
+
 
 
 
