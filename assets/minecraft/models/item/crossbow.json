@@ -410,6 +410,39 @@
       {"predicate": {"custom_model_data": 331,"charged": 1},
         "model": "bowsenal/crossbows/accumulator_arrow"},
 
+      {"predicate": {"custom_model_data": 341},
+        "model": "bowsenal/crossbows/rainbow"},
+      {"predicate": {"custom_model_data": 341,"pulling": 1},
+        "model": "bowsenal/crossbows/rainbow_pulling_0"},
+      {"predicate": {"custom_model_data": 341,"pulling": 1,"pull": 0.58},
+        "model": "bowsenal/crossbows/rainbow_pulling_1"},
+      {"predicate": {"custom_model_data": 341,"pulling": 1,"pull": 0.9},
+        "model": "bowsenal/crossbows/rainbow_pulling_2"},
+      {"predicate": {"custom_model_data": 341,"charged": 1},
+        "model": "bowsenal/crossbows/rainbow_arrow"},
+
+      {"predicate": {"custom_model_data": 351},
+        "model": "bowsenal/crossbows/rain_bow"},
+      {"predicate": {"custom_model_data": 351,"pulling": 1},
+        "model": "bowsenal/crossbows/rain_bow_pulling_0"},
+      {"predicate": {"custom_model_data": 351,"pulling": 1,"pull": 0.58},
+        "model": "bowsenal/crossbows/rain_bow_pulling_1"},
+      {"predicate": {"custom_model_data": 351,"pulling": 1,"pull": 0.9},
+        "model": "bowsenal/crossbows/rain_bow_pulling_2"},
+      {"predicate": {"custom_model_data": 351,"charged": 1},
+        "model": "bowsenal/crossbows/rain_bow_arrow"},
+
+      {"predicate": {"custom_model_data": 361},
+        "model": "bowsenal/crossbows/marksman"},
+      {"predicate": {"custom_model_data": 361,"pulling": 1},
+        "model": "bowsenal/crossbows/marksman_pulling_0"},
+      {"predicate": {"custom_model_data": 361,"pulling": 1,"pull": 0.58},
+        "model": "bowsenal/crossbows/marksman_pulling_1"},
+      {"predicate": {"custom_model_data": 361,"pulling": 1,"pull": 0.9},
+        "model": "bowsenal/crossbows/marksman_pulling_2"},
+      {"predicate": {"custom_model_data": 361,"charged": 1},
+        "model": "bowsenal/crossbows/marksman_arrow"},
+
 
 
 
