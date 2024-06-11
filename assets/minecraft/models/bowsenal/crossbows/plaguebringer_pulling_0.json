@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:item/crossbow_pulling_0",
-    "textures": {
-        "layer0": "minecraft:item/bowsenal/crossbows/plaguebringer_pulling_0"
-    }
-}

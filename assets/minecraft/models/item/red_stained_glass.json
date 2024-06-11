@@ -5,6 +5,6 @@
     "layer0": "minecraft:block/red_stained_glass"
   },
   "overrides": [
-		{ "predicate": { "custom_model_data": 30}, "model": "bowsenal/misc/brimstone" }
+		{ "predicate": { "custom_model_data": 30}, "model": "item/misc/brimstone" }
 	]
 }

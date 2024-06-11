@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:item/crossbow_arrow",
-    "textures": {
-        "layer0": "minecraft:item/bowsenal/crossbows/oversimplified/ringstorm_arrow"
-    }
-}
