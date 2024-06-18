@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow_pulling_0",
+    "textures": {
+        "layer0": "minecraft:item/bows/high_res/megalodon_pulling_0"
+    }
+}

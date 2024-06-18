@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow_pulling_0",
+    "textures": {
+        "layer0": "minecraft:item/bows/high_res/tripletide_pulling_0"
+    }
+}
